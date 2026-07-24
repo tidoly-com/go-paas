@@ -171,4 +171,4 @@ paasctl node list                  # (예정)
 ## 문의
 
 설치·라이선스 문의는 담당자에게 연락 주세요.
-admin@tidoly.com / 010-4356-7369
+admin@tidoly.com
